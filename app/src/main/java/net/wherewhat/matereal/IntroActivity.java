@@ -18,7 +18,7 @@ import java.util.List;
  */
 public class IntroActivity extends android.app.Activity{
 
-    private static long START_UP_TIME = 2000l;
+    private static long START_UP_TIME = 1500l;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

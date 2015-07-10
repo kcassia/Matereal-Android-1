@@ -2,25 +2,18 @@
 <items version="2" >
 
     <item
+        jar="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/classes-8831ebf6af518fb68c4bb1407031a2cf1c142413.jar" />
+    </item>
+    <item
         jar="/Users/RyuIkHan/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.3.1/3b8b2740d5f8680a9eac6f6f726925988059fccd/androidannotations-api-3.3.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3b8b2740d5f8680a9eac6f6f726925988059fccd">
         <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.3.1-312f7136cb15676a5f32fe8b3091ae6de4c95aba.jar" />
-    </item>
-    <item
-        jar="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/classes-f1e5ee6064c9155f492227114f61e00b3dcbc257.jar" />
-    </item>
-    <item
-        jar="/Users/RyuIkHan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b9044c73c13a3f8be7a564f1c07e915252b77beb.jar" />
     </item>
     <item
         jar="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
@@ -30,11 +23,18 @@
         <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3f308d140e1dd851f80c6fc89612e7875d113f42.jar" />
     </item>
     <item
-        jar="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jar="/Users/RyuIkHan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/classes-8831ebf6af518fb68c4bb1407031a2cf1c142413.jar" />
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b9044c73c13a3f8be7a564f1c07e915252b77beb.jar" />
+    </item>
+    <item
+        jar="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/RyuIkHan/AndroidStudioProjects/MateReal-App/app/build/intermediates/pre-dexed/debug/classes-f1e5ee6064c9155f492227114f61e00b3dcbc257.jar" />
     </item>
 
 </items>
